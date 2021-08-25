@@ -1,0 +1,163 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.header {
+    background: #101446;
+}
+
+.h-img {
+    line-height: 71px;
+}
+
+.h-img img {
+    width: 100px;
+}
+
+.menu {}
+
+.menu ul {}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 3px 21px;
+    font-size: 18px;
+    line-height: 55px;
+}
+
+
+.banner {
+    background: url(img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 150px 0;
+    color: #fff;
+}
+
+.banner P {
+    margin: 20px 0;
+}
+
+.banner a {
+
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    background: #4886bc;
+    padding: 10px 20px;
+    border-radius: 9px;
+    margin-top: 25px;
+}
+
+
+.teem {
+    background: #bac1f3;
+    padding: 65px 0;
+}
+
+.teem h2 {
+    text-align: center;
+    font-size: 46px;
+    margin-bottom: 44px;
+}
+
+.item {
+    text-align: center;
+}
+
+.t-img {}
+
+.item .card {
+    background: none;
+    border: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.txt1 {
+    padding: 0 72px;
+}
+
+.txt1 h2 {}
+
+.txt1 p {color: #4e4e4e;}
+
+.txt1 a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    background: #337ab7;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+ 
+
+.about { 
+    background: #c2d4ea;
+    padding: 51px 0;
+}
+
+.about h2 {
+    text-align: center;
+    font-size: 46px;
+    margin-bottom: 44px;
+}
+
+.abut-left {color: #4e4e4e;}
+
+.a-img {
+    width: 40%;
+    float: left;
+}
+
+.a-img img {}
+
+.a-menu {
+    width: 60%;
+    float: right;
+}
+
+.a-menu ul {}
+
+.a-menu ul li {
+    padding: 4px 0;
+    list-style: none;
+}
+
+.about p {
+    margin-top: 15px;
+    color: #4e4e4e;
+}
+
+.a-right {}
+
+.a-right p {}
+
+.a-right strong {
+    font-weight: 600;
+    font-size: 18px;
+    color: #4e4e4e;
+}
+.contact{
+    padding: 50px 0;
+    background: #f5f5f5;
+}
+.contact h2 {
+    text-align: center;
+    font-size: 46px;
+    margin-bottom: 44px;
+}
+.map iframe{
+    max-width: 100%;
+}
